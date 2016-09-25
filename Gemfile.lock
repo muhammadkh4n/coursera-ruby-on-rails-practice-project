@@ -95,6 +95,7 @@ GEM
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
     origin (2.2.0)
+    pg (0.19.0)
     pkg-config (1.1.7)
     rack (1.6.4)
     rack-test (0.6.3)
@@ -200,6 +201,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   mongoid (~> 5.0.0)
+  pg
   rails (~> 4.2.4)
   rails_12factor
   rspec-rails (~> 3.0)
